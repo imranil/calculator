@@ -1,2 +1,1 @@
-# calculator
-учу react
+# учу react
